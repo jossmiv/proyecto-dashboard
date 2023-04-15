@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "chart.js": "^4.1.2"
+  },
+  "name": "proyecto-dashboard",
+  "version": "1.0.0",
+  "description": "Esta es la implementación de una API",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jossmiv/proyecto-dashboard.git"
+  },
+  "keywords": [
+    "API",
+    "películas",
+    "tendencias"
+  ],
+  "author": "jossmiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jossmiv/proyecto-dashboard/issues"
+  },
+  "homepage": "https://github.com/jossmiv/proyecto-dashboard#readme"
+}
